@@ -1,3 +1,14 @@
+### Ссылка на GitHub Pages website https://mrwhi1te.github.io/js-cp-diploma-edited/
+
+### Ссылка на GitHub https://github.com/MrWhi1te/js-cp-diploma-edited
+
+### Используемые технологии
+- JavaScript
+- HTML
+- CSS
+
+
+
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 ## Создание «информационной системы для предварительного бронирования билетов».
